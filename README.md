@@ -1,0 +1,2 @@
+# scorum
+scorum blogging platform
